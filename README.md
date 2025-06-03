@@ -1,2 +1,3 @@
-# CIS17B-S25-33477-Assignment6
+# CIS17B-S25-33477-Assignment6 Kenneth Furse
 To step through this program, start by launching the application, which opens the main window with input fields and buttons. Begin by entering an item's ID, description, and location in the provided fields, then click “Add Item” to store it; the list will update to show all items sorted by description. To find an item, enter its ID in the “Find by ID” field and click the corresponding button to see the details in a popup. To remove an item, input its ID in the “Remove by ID” field and click the remove button; the list updates accordingly. Any errors, such as duplicate IDs or missing items, will be shown in an error dialog. Use the menu bar to exit or view the “About” info, and step through each action to test the program’s exception handling and inventory logic.
+![image](https://github.com/user-attachments/assets/3480f9fc-248b-4d69-8d7e-ffe2853ef3e3)
